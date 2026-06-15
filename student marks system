@@ -1,0 +1,20 @@
+math = int(input("Enter math marks:"))
+science = int(input("Enter science marks:"))
+english = int(input("Enter english"))
+total = math+science+english
+percentage = total/3
+print("Total:",total)
+print("percentage:",percentage)
+def get_grade(percentage):
+    if percentage >= 90:
+        return "A+"
+    elif percentage >= 80:
+        return "A"
+    elif percentage >= 70:
+        return "B"
+    elif percentage >= 60:
+        return "C"
+    else:
+        return "D"
+grade = get_grade(percentage)
+print("Grade",grade)
