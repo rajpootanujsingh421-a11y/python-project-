@@ -49,3 +49,52 @@ Database Integration
 Problem Solving
 SQLite
 Tkinter
+
+# 🏦 Bank Management System
+
+A desktop banking application built using Python Tkinter and SQLite Database.
+
+## 🚀 Features
+
+- Create Account
+- Search Account
+- Deposit Money
+- Withdraw Money
+- Delete Account
+- Check Balance
+- Transaction History
+- Date & Time Transaction Record
+- Admin Login System
+
+## 🛠 Technologies Used
+
+- Python
+- Tkinter
+- SQLite
+
+## 📂 Project Structure
+
+Bank-Management-System/
+
+├── bank_management.py  
+├── bank.db  
+└── README.md  
+
+
+## ▶️ How to Run
+
+1. Install Python
+
+2. Run the file:
+
+python bank_management.py
+
+
+## 📸 Screenshot
+
+(Add your project screenshot here)
+
+
+## 👨‍💻 Author
+
+Anuj Rajpoot
