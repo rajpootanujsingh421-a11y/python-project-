@@ -80,21 +80,12 @@ Bank-Management-System/
 ├── bank.db  
 └── README.md  
 
-
 ## ▶️ How to Run
 
 1. Install Python
 
 2. Run the file:
-
-python bank_management.py
-
-
-## 📸 Screenshot
-
-(Add your project screenshot here)
-
-
+   
 ## 👨‍💻 Author
 
 Anuj Rajpoot
